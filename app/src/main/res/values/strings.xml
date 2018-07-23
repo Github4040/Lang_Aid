@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lang Aid</string>
+    <string name="player">Enter your name</string>
+    <string name="Welcome">Welcome to Lang Aid! </string>
+    <string name="Mssg_capture">Click on camera icon and place the camera towards the object. </string>
+    <string name="btn">Check</string>
+    <string name="play">Select on the option corresponding to image.</string>
+    <string name="btn_name">Get the name of the object</string>
+    <string name="title_activity_bing">bing</string>
+    <string name="all">Powered by Microsoft Codess</string>
+</resources>
